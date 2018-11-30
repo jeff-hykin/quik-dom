@@ -1,6 +1,6 @@
 {
     "name": "quik-dom",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A plug-in for the quick-server system",
     "main": "index.js",
     "scripts": {
