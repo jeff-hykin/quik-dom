@@ -1,5 +1,5 @@
 module.exports = {
-    frontend : () => {
-        require("good-dom");
+    generateFrontend : (server) => {
+        return `require("good-dom")`
     }
 }
