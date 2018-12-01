@@ -1,5 +1,3 @@
 module.exports = {
-    generateFrontend : (server) => {
-        return `require("good-dom").global()`
-    }
+    generateFrontend: () => `require("good-jsx")`
 }
