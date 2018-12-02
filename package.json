@@ -1,6 +1,6 @@
 {
     "name": "quik-dom",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "A plug-in for the quick-server system",
     "main": "index.js",
     "scripts": {
@@ -18,6 +18,6 @@
     },
     "homepage": "https://github.com/jeff-hykin/quik-dom#readme",
     "dependencies": {
-        "good-jsx": "^1.0.0"
+        "good-jsx": "^1.0.1"
     }
 }
